@@ -87,7 +87,3 @@ Salesforce Certified | ML Enthusiast
 [LinkedIn](https://linkedin.com/in/lokesh-harinath-a8b21b195) | [GitHub](https://github.com/Lokeshharinath)
 
 ---
-
-## 📜 License
-
-This project is open source under the MIT License.
